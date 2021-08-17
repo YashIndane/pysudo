@@ -84,5 +84,5 @@ def solve(problem) -> list :
          for y_ in x_ : full_numbers.append(y_)
 
     #return full_numbers
-    full_numbers = [full_numbers[9*x : 9(x+1)] for x in range(9)]
+    full_numbers = [full_numbers[9*x : 9*(x+1)] for x in range(9)]
     return full_numbers

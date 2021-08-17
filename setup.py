@@ -5,7 +5,7 @@ with open("README.md" , "r") as f:
 
 setuptools.setup(
       name="pysudo",
-      version="1.0",
+      version="1.1.0",
       author="Yash Indane",
       author_email="yashindane46@gmail.com",
       description="libray for solving standard Sudoku",
